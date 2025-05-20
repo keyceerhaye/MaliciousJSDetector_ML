@@ -1,0 +1,64 @@
+{
+    "dom_changes": [],
+    "js_api_calls": [],
+    "network_requests": [
+        {
+            "documentURL": "file:///C:/Users/User/Desktop/javascript-ias/temp_test.html",
+            "frameId": "6EC46685CE4474DE28DA02E9BDC7EC6B",
+            "hasUserGesture": false,
+            "initiator": {
+                "type": "other"
+            },
+            "loaderId": "0B4901A1DD9CC14422640B3AC76536F9",
+            "redirectHasExtraInfo": false,
+            "request": {
+                "headers": {
+                    "sec-ch-ua": "\"Chromium\";v=\"136\", \"Google Chrome\";v=\"136\", \"Not.A/Brand\";v=\"99\"",
+                    "sec-ch-ua-mobile": "?0",
+                    "sec-ch-ua-platform": "\"Windows\""
+                },
+                "initialPriority": "VeryHigh",
+                "isSameSite": true,
+                "method": "GET",
+                "mixedContentType": "none",
+                "referrerPolicy": "strict-origin-when-cross-origin",
+                "url": "file:///C:/Users/User/Desktop/javascript-ias/temp_test.html"
+            },
+            "requestId": "0B4901A1DD9CC14422640B3AC76536F9",
+            "timestamp": 18767.330132,
+            "type": "Document",
+            "wallTime": 1747360734.227406
+        },
+        {
+            "documentURL": "file:///C:/Users/User/Desktop/javascript-ias/temp_test.html",
+            "frameId": "6EC46685CE4474DE28DA02E9BDC7EC6B",
+            "hasUserGesture": false,
+            "initiator": {
+                "columnNumber": 82,
+                "lineNumber": 7,
+                "type": "parser",
+                "url": "file:///C:/Users/User/Desktop/javascript-ias/temp_test.html"
+            },
+            "loaderId": "0B4901A1DD9CC14422640B3AC76536F9",
+            "redirectHasExtraInfo": false,
+            "request": {
+                "headers": {
+                    "Referer": "",
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/136.0.0.0 Safari/537.36"
+                },
+                "initialPriority": "High",
+                "isSameSite": true,
+                "method": "GET",
+                "mixedContentType": "none",
+                "referrerPolicy": "strict-origin-when-cross-origin",
+                "url": "file:///C:/Users/User/Desktop/javascript-ias/test_script.js"
+            },
+            "requestId": "18408.2",
+            "timestamp": 18767.340691,
+            "type": "Script",
+            "wallTime": 1747360734.237996
+        }
+    ],
+    "alerts": [],
+    "cpu_usage": []
+}
